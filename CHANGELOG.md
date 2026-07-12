@@ -1,9 +1,11 @@
 # Changelog
 
-## v0.0.1
+## Version 0.0.2
 
 ### Added
 
-- Python Module
-- Chapter 1 - Introduction to Python
-- First Python Program
+- Chapter 2 - Variables & Memory
+- Reference Code
+- 30 Practice Exercises
+- Solution Templates
+- Student Profile Mini Project
