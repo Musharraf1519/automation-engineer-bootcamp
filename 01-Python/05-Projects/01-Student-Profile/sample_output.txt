@@ -1,0 +1,35 @@
+==================================================
+            STUDENT PROFILE
+==================================================
+
+Student ID        : ST101
+
+Name              : Musharraf Khan
+
+Age               : 25
+
+Age Next Year     : 26
+
+Gender            : Male
+
+Course            : B.Tech
+
+College           : XYZ Institute
+
+City              : Bangalore
+
+Email             : musharraf@email.com
+
+Phone             : 9876543210
+
+Semester          : 7
+
+CGPA              : 8.45
+
+Percentage        : 80.28 %
+
+Annual Fee        : ₹120000
+
+Monthly Fee       : ₹10000
+
+==================================================
