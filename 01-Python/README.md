@@ -10,7 +10,8 @@ After completing this module, you will be able to:
 
 - Understand Python fundamentals
 - Write clean Python programs
-- Work with variables and memory
+- Understand Python's object model
+- Work confidently with data types
 - Build command-line applications
 - Prepare for automation workflows using Python
 
@@ -22,7 +23,7 @@ After completing this module, you will be able to:
 |----------|--------|
 | 01 - Introduction to Python | ✅ Completed |
 | 02 - Variables & Memory | ✅ Completed |
-| 03 - Data Types | ⏳ Upcoming |
+| 03 - Data Types | ✅ Completed |
 | 04 - Operators | ⏳ Upcoming |
 | 05 - Input & Output | ⏳ Upcoming |
 | 06 - Conditional Statements | ⏳ Upcoming |

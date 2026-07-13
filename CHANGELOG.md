@@ -1,11 +1,9 @@
-# Changelog
-
-## Version 0.0.2
+## Version 0.0.3
 
 ### Added
 
-- Chapter 2 - Variables & Memory
+- Chapter 3 - Data Types
 - Reference Code
 - 30 Practice Exercises
 - Solution Templates
-- Student Profile Mini Project
+- Personal Information System Project
