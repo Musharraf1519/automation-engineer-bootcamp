@@ -7,10 +7,10 @@
 - ✅ Chapter 1 - Introduction to Python
 - ✅ Chapter 2 - Variables & Memory
 - ✅ Chapter 3 - Data Types
+- ✅ Chapter 4 - Operators
 
 ## Upcoming
 
-- ⏳ Chapter 4 - Operators
 - ⏳ Chapter 5 - Input & Output
 - ⏳ Chapter 6 - Conditional Statements
 - ⏳ Chapter 7 - Loops

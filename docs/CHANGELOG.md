@@ -1,9 +1,9 @@
-## Version 0.0.3
+## Version 0.0.4
 
 ### Added
 
-- Chapter 3 - Data Types
+- Chapter 4 - Operators
 - Reference Code
 - 30 Practice Exercises
 - Solution Templates
-- Personal Information System Project
+- Simple Calculator Project

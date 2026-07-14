@@ -17,14 +17,14 @@ After completing this module, you will be able to:
 
 ---
 
-# Chapter Progress
+## Chapter Progress
 
 | Chapter | Status |
 |----------|--------|
 | 01 - Introduction to Python | ✅ Completed |
 | 02 - Variables & Memory | ✅ Completed |
 | 03 - Data Types | ✅ Completed |
-| 04 - Operators | ⏳ Upcoming |
+| 04 - Operators | ✅ Completed |
 | 05 - Input & Output | ⏳ Upcoming |
 | 06 - Conditional Statements | ⏳ Upcoming |
 | 07 - Loops | ⏳ Upcoming |
