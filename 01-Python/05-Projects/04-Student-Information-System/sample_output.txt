@@ -1,0 +1,74 @@
+=========================================================================
+                    STUDENT INFORMATION SYSTEM
+=========================================================================
+
+Enter Student ID        : ST101
+Enter Name              : Musharraf Khan
+Enter Age               : 25
+Enter Gender            : Male
+Enter Date of Birth     : 15-08-2000
+
+Enter Course            : B.Tech
+Enter Branch            : Computer Science
+Enter Semester          : 6
+Enter College           : ABC Engineering College
+
+Enter Email             : abc@gmail.com
+Enter Mobile Number     : 9876543210
+Enter City              : Kolkata
+Enter State             : West Bengal
+Enter Country           : India
+
+Enter Subject 1 Marks   : 82
+Enter Subject 2 Marks   : 75
+Enter Subject 3 Marks   : 91
+Enter Subject 4 Marks   : 88
+Enter Subject 5 Marks   : 79
+
+=========================================================================
+                        STUDENT REPORT
+=========================================================================
+
+PERSONAL INFORMATION
+------------------------------------------------------------
+
+Student ID        : ST101
+Name              : Musharraf Khan
+Age               : 25
+Gender            : Male
+Date of Birth     : 15-08-2000
+
+ACADEMIC INFORMATION
+------------------------------------------------------------
+
+Course            : B.Tech
+Branch            : Computer Science
+Semester          : 6
+College           : ABC Engineering College
+
+CONTACT INFORMATION
+------------------------------------------------------------
+
+Email             : abc@gmail.com
+Mobile            : 9876543210
+City              : Kolkata
+State             : West Bengal
+Country           : India
+
+MARKS
+------------------------------------------------------------
+
+Subject 1         : 82
+Subject 2         : 75
+Subject 3         : 91
+Subject 4         : 88
+Subject 5         : 79
+
+RESULT
+------------------------------------------------------------
+
+Total Marks       : 415
+Average Marks     : 83.00
+Percentage        : 83.00%
+
+=========================================================================

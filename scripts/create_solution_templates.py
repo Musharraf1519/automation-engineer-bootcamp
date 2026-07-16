@@ -12,7 +12,7 @@ from pathlib import Path
 # =========================================================
 
 MODULE = "01-Python"
-CHAPTER = "04-Operators"
+CHAPTER = "05-Input-and-Output"
 TOTAL_QUESTIONS = 30
 
 # =========================================================
@@ -22,7 +22,7 @@ TOTAL_QUESTIONS = 30
 destination = (
     Path.cwd()
     / MODULE
-    / "04-Solutions"
+    / "05-Input-and-Output"
     / CHAPTER
 )
 

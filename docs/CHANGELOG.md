@@ -1,9 +1,9 @@
-## Version 0.0.4
+## Version 0.0.5
 
 ### Added
 
-- Chapter 4 - Operators
+- Chapter 5 - Input & Output
 - Reference Code
 - 30 Practice Exercises
 - Solution Templates
-- Simple Calculator Project
+- Project 04 - Student Information System

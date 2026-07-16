@@ -8,10 +8,10 @@
 - ✅ Chapter 2 - Variables & Memory
 - ✅ Chapter 3 - Data Types
 - ✅ Chapter 4 - Operators
+- ✅ Chapter 5 - Input & Output
 
 ## Upcoming
 
-- ⏳ Chapter 5 - Input & Output
 - ⏳ Chapter 6 - Conditional Statements
 - ⏳ Chapter 7 - Loops
 - ⏳ Chapter 8 - Functions
