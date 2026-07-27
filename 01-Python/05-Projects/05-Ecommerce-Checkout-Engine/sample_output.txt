@@ -1,0 +1,54 @@
+====================================================================
+                    E-COMMERCE CHECKOUT ENGINE
+====================================================================
+
+Enter Customer Name           : Musharraf Khan
+Premium Member (Yes/No)       : Yes
+
+Enter Product Name            : Wireless Headphones
+Enter Product Price           : 3200
+Enter Quantity                : 2
+
+Enter Coupon Code             : SAVE500
+Payment Method (Cash/Card/UPI): UPI
+
+====================================================================
+                           CUSTOMER INVOICE
+====================================================================
+
+Customer Name      : Musharraf Khan
+Premium Member     : Yes
+
+------------------------------------------------------------
+
+Product Name       : Wireless Headphones
+Unit Price         : ₹3200.00
+Quantity           : 2
+
+------------------------------------------------------------
+
+Subtotal           : ₹6400.00
+
+Membership Discount: -₹640.00
+Coupon Discount    : -₹500.00
+Payment Discount   : -₹105.20
+
+------------------------------------------------------------
+
+Taxable Amount     : ₹5154.80
+GST (18%)          : ₹927.86
+
+Delivery Charge    : FREE
+
+------------------------------------------------------------
+
+Final Payable      : ₹6082.66
+
+------------------------------------------------------------
+
+Payment Method     : UPI
+Coupon Applied     : SAVE500
+
+============================================================
+          THANK YOU FOR SHOPPING WITH US
+============================================================

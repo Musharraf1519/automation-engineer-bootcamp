@@ -26,7 +26,7 @@ After completing this module, you will be able to:
 | 03 - Data Types | ✅ Completed |
 | 04 - Operators | ✅ Completed |
 | 05 - Input & Output | ✅ Completed |
-| 06 - Conditional Statements | ⏳ Upcoming |
+| 06 - Conditional Statements | ✅ Completed |
 | 07 - Loops | ⏳ Upcoming |
 | 08 - Functions | ⏳ Upcoming |
 | 09 - Modules | ⏳ Upcoming |
